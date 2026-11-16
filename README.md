@@ -1,10 +1,7 @@
 # 🌍 Image Slider — Explore the World
 
-\<p align="center">
-&#x20; \<strong>A beautiful and interactive image slider built using HTML, CSS, and JavaScript.\</strong>
-&#x20; \<br>
-&#x20; Explore amazing destinations through stunning images, smooth transitions, and automatic slide navigation.
-\</p>
+A beautiful and interactive image slider built using HTML, CSS, and JavaScript.
+Explore amazing destinations through stunning images, smooth transitions, and automatic slide navigation.
 
 ---
 
