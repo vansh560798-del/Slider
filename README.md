@@ -98,14 +98,6 @@ Through this project, I practiced:
 - Implementing automatic image transitions.
 - Creating animations using CSS keyframes.
 
-## 🔮 Future Improvements
-
-- Add mobile-friendly responsive layouts.
-- Add slide indicators.
-- Add a play/pause button.
-- Add keyboard navigation.
-- Add more destinations.
-
 ## 👨‍💻 Author
 
 **Vansh Soni**
